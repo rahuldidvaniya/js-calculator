@@ -64,3 +64,7 @@ button {
 .grey {
     background-color: #A9A9A9;
 }
+
+.active {
+   background-color: #707070;
+}
